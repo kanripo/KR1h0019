@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 石鼓論語答問
-#+DATE: 2016-04-12 13:59:42.126721
+#+DATE: 2016-04-12 13:59:42.378261
 #+PROPERTY: ID KR1h0019
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR1h0019_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -88,7 +88,7 @@
 ¶
 　　近有新説云則以學文者以學而文之也此説害理¶
 只上面便是學如何更以學去文之也只依舊説夫¶
-文質兩字少不得&KR0068;子成説文猶質也為子貢所病¶
+文質兩字少不得棘子成説文猶質也為子貢所病¶
 但躬行當在先學文當在後學者要知次第耳¶
 ¶
 　　子夏曰賢賢易色事父母能竭其力事君能致其身與¶
